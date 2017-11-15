@@ -3,5 +3,5 @@
 @Library('MicroserviceBuilder') _
 microserviceBuilderPipeline {
   image = 'demoxxx'
-  mavenImage='wwdemo/imagesmaven-lab'
+  mavenImage='wwdemo/images:maven-lab'
 }
